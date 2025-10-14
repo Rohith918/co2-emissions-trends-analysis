@@ -51,9 +51,9 @@ The dataset from **Our World in Data (OWID)** provides information on emissions,
 ---
 
 ## 📊 Dataset Information  
-**Source**: [Our World in Data – CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)  
-**Authors**: Our World in Data team  
-**Time Coverage**: 1850–2023 (updated annually)  
+**Source**: [CO₂ Emissions Across Countries, Regions, & Sectors](https://www.kaggle.com/datasets/shreyanshdangi/co-emissions-across-countries-regions-and-sectors)  
+**Authors**: Shreyansh Dangi  
+**Time Coverage**: 1850–2023 
 **Variables**:  
 
 | Variable Name              | Type       | Range                     | Role in Analysis |
@@ -78,7 +78,7 @@ The dataset from **Our World in Data (OWID)** provides information on emissions,
 **Course**: AA 5200 – Visualization, Feedback and Dissemination  
 **University**: Saint Louis University  
 **Instructor**: Shannon Parker  
-**Submission Date**: 09/08/2025  
+**Submission Date**: 10/10/2025  
 
 ---
 
@@ -106,6 +106,5 @@ The findings contribute to informed global strategies for **mitigation, sustaina
 ---
 
 ## 📚 References  
-Ritchie, H., Roser, M., & Rosado, P. (2023). *CO₂ and Greenhouse Gas Emissions*. Our World in Data. Retrieved from [https://ourworldindata.org/co2-and-greenhouse-gas-emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)  
-
+Dangi, S. (2025). CO2 emissions across countries, regions, & sectors. [https://www.kaggle.com/datasets/shreyanshdangi/co-emissions-across-countries-regions-and-sectors](https://www.kaggle.com/datasets/shreyanshdangi/co-emissions-across-countries-regions-and-sectors)
 ---
